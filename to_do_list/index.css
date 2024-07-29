@@ -3,6 +3,18 @@ body{
    
     
 }
+#Header{
+    color: chartreuse;
+}
+#inputtask{
+    padding: 20px 5px;
+    border-radius: 12px;
+}
+#addtask{
+    padding: 20px 20px;
+    background-color: blueviolet;
+    border-radius: 12px;
+}
 .container{
     margin:100px auto;
     width: 50%;
@@ -15,6 +27,8 @@ h1{
 }
 ul{
     list-style-type: none;
+    background-color: cadetblue;
+    padding: 90px 12px;
     
 }
 li{
@@ -24,6 +38,8 @@ li{
     background-color: aliceblue;
     width: 50%;
     margin: 10px auto;
+    padding: 20px 20px;
+    border-radius: 5px;
    
 }
 .deletebutton{
