@@ -6,6 +6,10 @@ body{
 #Header{
     color: chartreuse;
 }
+h2{
+    color: darkblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 #inputtask{
     padding: 20px 5px;
     border-radius: 12px;
@@ -28,7 +32,8 @@ h1{
 ul{
     list-style-type: none;
     background-color: cadetblue;
-    padding: 90px 12px;
+    padding: 60px 0px;
+    border-radius: 10px;
     
 }
 li{
